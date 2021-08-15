@@ -15,3 +15,10 @@
 .container{
     background-color: #c0b9af;
 }
+
+#profile{
+    width: 50px; 
+    height: 190px; 
+    padding-right: 50px; 
+    padding-left: 50px;
+}
