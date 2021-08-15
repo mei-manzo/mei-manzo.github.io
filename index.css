@@ -4,3 +4,10 @@
     background: url(wavybg.jpg);
     background-size: cover;
 }
+
+#prof{
+    margin-top: 0px;
+    padding-top: 0px;
+    background: url(profile.jpg);
+    background-size: cover;
+}
