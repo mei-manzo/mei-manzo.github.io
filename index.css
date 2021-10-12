@@ -1,10 +1,11 @@
 #bg{
     margin-top: 0px;
     padding-top: 0px;
-    /* background: url(wavybg.jpg); */
     background-color: aliceblue;
     background-size: cover;
 }
+
+/* background: url(wavybg.jpg); */
 
 /* #bluebg{
     background-color: none;
