@@ -1,7 +1,8 @@
 #bg{
     margin-top: 0px;
     padding-top: 0px;
-    background: url(wavybg.jpg);
+    /* background: url(wavybg.jpg); */
+    background-color: aliceblue;
     background-size: cover;
 }
 
