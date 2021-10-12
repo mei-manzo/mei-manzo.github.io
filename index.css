@@ -1,13 +1,12 @@
 #bg{
     margin-top: 0px;
     padding-top: 0px;
-    /* background-color: #5a626b; */
-    background-color: black;
+    background: url(wavybg.jpg);
+    /* background-color: black; */
     background-size: cover;
     color:lightgrey;
 }
 
-    /* background: url(wavybg.jpg); */
 
 #bluebg{
     /* background: url(wavybg.jpg); */
