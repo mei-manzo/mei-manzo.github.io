@@ -1,15 +1,15 @@
 #bg{
     margin-top: 0px;
     padding-top: 0px;
-    background-color: aliceblue;
+    /* background-color: aliceblue; */
     background-size: cover;
 }
 
-/* background: url(wavybg.jpg); */
+    /* background: url(wavybg.jpg); */
 
-/* #bluebg{
-    background-color: none;
-} */
+#bluebg{
+    background: url(wavybg.jpg);
+}
 
 /* #prof{
     margin-top: 0px;
