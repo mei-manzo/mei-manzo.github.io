@@ -1,9 +1,10 @@
 #bg{
     margin-top: 0px;
     padding-top: 0px;
-    background-color: #5a626b;
+    /* background-color: #5a626b; */
+    background-color: black;
     background-size: cover;
-    color:aliceblue;
+    color:lightgrey;
 }
 
     /* background: url(wavybg.jpg); */
