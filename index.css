@@ -1,8 +1,8 @@
 #bg{
     margin-top: 0px;
     padding-top: 0px;
-    background: url(wavybg.jpg);
-    /* background-color: black; */
+    /* background: url(wavybg.jpg); */
+    background-color: #e3316f;
     background-size: cover;
     color:black;
 }
